@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 professor Marcos Ramos, graduado em matemática e residente em laranjeiras do sul.
+estudante do alura.
+![](https://media1.tenor.com/m/cQgcu1YJZU4AAAAC/pray-beg.gif)
 
 <!--
 **matematicaramos/matematicaramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
